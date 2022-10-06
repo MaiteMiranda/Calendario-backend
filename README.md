@@ -16,10 +16,5 @@
 ### *Back-end ➞ (npm run dev)
 
 
-![HomeCalendario](./src/img/loginyregistro.jpg)
-![HomeCalendario](./src/img/home.jpg)
-![HomeCalendario](./src/img/modal.jpg)
-![HomeCalendario](./src/img/mes.jpg)
-![HomeCalendario](./src/img/eliminar.jpg)
 
 [Front-end](https://github.com/MaiteMiranda/Calendario-frontend)
